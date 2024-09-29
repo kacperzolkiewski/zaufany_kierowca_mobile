@@ -10,25 +10,25 @@ Here are some demo videos showcasing key features of the app:
 
 ### 1. Registration Process
 
-[![Registration Video](assets/demo-images/login.png)](assets/demo-videos/login.mp4)
+[![Registration Video](assets/demo-images/login.png)](https://drive.google.com/file/d/1ZZhb3nuJ3Al0ClJGdACp0t2nw7flS6ET/view?usp=drive_link)
 
 > Watch the video to see how users register on the app.
 
 ### 2. Add and Delete Ride
 
-[![Add and Delete Ride Video](assets/demo-images/addRide.png)](assets/demo-videos/addRide.mp4)
+[![Add and Delete Ride Video](assets/demo-images/addRide.png)](https://drive.google.com/file/d/1FQOk6MDhoITAoj3oSt9tNaV2XYg63nT8/view?usp=drive_link)
 
 > This demo shows how a user can create a ride with Google Maps integration and later delete it.
 
 ### 3. Find Ride and Make/Delete a Reservation
 
-[![Find Ride Video](assets/demo-images/findRide.png)](assets/demo-videos/findRide.mp4)
+[![Find Ride Video](assets/demo-images/findRide.png)](https://drive.google.com/file/d/1nxLpRLSzSNNL-z16yjwN45fZQ1JtoUFL/view?usp=drive_link)
 
 > Discover how users search for available rides, reserve them.
 
 ### 4. Add Opinion
 
-[![Add Opinion Video](assets/demo-images/addOpinion.png)](assets/demo-videos/addOpinion.mp4)
+[![Add Opinion Video](assets/demo-images/addOpinion.png)](https://drive.google.com/file/d/1Y-Vv1K5ZRzGiLayX4yi_vY9Gsh4tuaCX/view?usp=drive_link)
 
 > After completing a ride, users can leave opinions and reviews for other drivers. Check out this feature in action.
 
